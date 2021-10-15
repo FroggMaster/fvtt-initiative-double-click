@@ -1,7 +1,7 @@
 class FurnaceCombatQoL {
     static renderCombatTracker(tracker, html, data) {
         if (game.user.role < parseInt(game.settings.get("initiative-double-click","player-access")) ) return;
-        html.find(".token-initiative").off("dblclick").on("dblclick", FurnaceCombatQoL._onInitiativeDblClick)
+        html.find(".token-initiative").off("click").on("click", FurnaceCombatQoL._onInitiativeDblClick)
         for (let combatant of html.find("#combat-tracker li.combatant")) {
             if (combatant.classList.contains("active"))
                 break;
