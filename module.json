@@ -3,7 +3,7 @@
   "title": "Initiative Quick Change",
   "description": "Click the initiative value in the combat tracker to quickly modify it.",
   "author": "FrogMaster",
-  "authors": ["FrogMaster", "KaKaRoTo", "Pepijn"],
+	"authors": [ { "name": "FrogMaster", "discord": "Frog#5373", "url": "https://github.com/FroggMaster" } ],
   "url": "https://github.com/FroggMaster/fvtt-initiative-quick-change",
   "flags": {},
   "version": "2.7.1",
