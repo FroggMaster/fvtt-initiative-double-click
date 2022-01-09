@@ -2,9 +2,8 @@
 Click the initiative value in the combat tracker to quickly modify it.
 
 # Thanks 
-Special thanks to KaKaRoTo the original author of this VTT Module
-and
-Pepijn for the single click change
+- Special thanks to KaKaRoTo the original author of this VTT Module
+- Pepijn for the single click change
 
 # License
 This Foundry VTT module, is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
