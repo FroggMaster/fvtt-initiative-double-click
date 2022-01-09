@@ -3,7 +3,7 @@
   "title": "Initiative Quick Change",
   "description": "Click the initiative value in the combat tracker to quickly modify it.",
   "author": "FrogMaster",
-  "authors": [Frogmaster, KaKaRoTo, Pepijn],
+  "authors": ["Frogmaster", "KaKaRoTo", "Pepijn"],
   "url": "https://github.com/FroggMaster/fvtt-initiative-double-click",
   "flags": {},
   "version": "2.7.1",
