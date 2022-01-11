@@ -21,7 +21,7 @@ class FurnaceCombatQoL {
         initiative.empty().append(input)
         input.focus().select()
         input.on('change', ev => game.combat.setInitiative(cid, input.val()))
-        //input.on('focusout', ev => game.combats.render())
+        input.on('focusout', ev => game.combats.render())
     }
 }
 
