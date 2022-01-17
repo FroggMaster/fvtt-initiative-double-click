@@ -3,6 +3,7 @@ Click the initiative value in the combat tracker to quickly modify it.
 
 # Install
 - This Module can be downloaded directly through Foundry 
+
 OR
 - Manual Install VIA: https://github.com/FroggMaster/fvtt-initiative-quick-change/releases/latest/download/module.json
 
