@@ -8,7 +8,7 @@
   "flags": {},
   "version": "2.7.1",
   "minimumCoreVersion": "0.8.4",
-  "compatibleCoreVersion": "9.0",
+  "compatibleCoreVersion": "11.0.0",
   "scripts": [
     "Combat.js"
   ],
