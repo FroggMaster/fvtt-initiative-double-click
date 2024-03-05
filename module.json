@@ -6,7 +6,7 @@
 	"authors": [ { "name": "FrogMaster", "discord": "Frog#5373", "url": "https://github.com/FroggMaster" } ],
   "url": "https://github.com/FroggMaster/fvtt-initiative-quick-change",
   "flags": {},
-  "version": "2.7.2",
+  "version": "2.7.3",
   "minimumCoreVersion": "0.8.4",
   "compatibleCoreVersion": "11.0.0",
   "scripts": [
